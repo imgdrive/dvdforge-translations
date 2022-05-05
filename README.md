@@ -3,6 +3,7 @@
     <tr><th>Language</th><th>Version</th><th>DVDForge</th><th>Maintainer</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; Italian</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
 </table>
 
 &#x1F34F; Up to date<br>
