@@ -1,5 +1,5 @@
-# Maintainer
-<table border="0" cellpadding=5 cols=13 frame=below rules=rows>
+## Maintainer
+<table>
     <tr><th>Language</th><th>Version</th><th>DVDForge</th><th>Maintainer</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
@@ -10,25 +10,25 @@
 &#x1F34A; Not up to date<br>
 &#x1F34E; No update for a long time
 
-# How to Translate
-1. Search LCID from LCID table below, copy file DVDForge_ENG.ini with new name DVDForge_[LCID].ini
+## How to Translate
+1. Copy file DVDForge_ENU.ini, rename to DVDForge_XXX.ini, replace XXX with new **Language code** can be found in **LCID - Locale identifier** below. 
 2. Translate strings after '=' character
     <pre>
     [INFO]
-    ID=0x0409           ; !important, must be changed to the value list in LCID section  
-    Name=English        ; Will be shown in Settings dialog
+    ID=0x0409           ; LCID (Locale identifier)
+    Name=English        ; Language Name
     Version=1.7.2
-    Author=             ; Translator's name
+    Author=             ; Translator
+   
     [DIALOG_1]
-    0=General  
+    0=General
     3=&Language:
     ...
     </pre>
-3. Copy the Language\DVDForge_XXX.ini to %ProgramFiles%\DVDForge\Language\  
-4. Restart DVDForge, you can select the new language in DVDForge's settings dialog.
+3. Copy the new language file to %ProgramFiles%\DVDForge\language\, restart DVDForge, select the new language in options dialog.
 
-# LCID - Locale identifier
-<table border="0" cellpadding=5 cols=13 frame=below rules=rows>
+## LCID - Locale identifier
+<table>
   <tr> 
     <th>Primary Language</th>
     <th>Sublanguage - locale</th>
