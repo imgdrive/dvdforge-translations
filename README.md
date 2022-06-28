@@ -5,6 +5,7 @@
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Italian (Italiano)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
     <tr><td>&#x1F34F; German (Deutsch)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; Arabic (عربي)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>فتحي الداودية</td></tr>
 </table>
 
 &#x1F34F; Up to date<br>
