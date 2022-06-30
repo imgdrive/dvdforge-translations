@@ -2,12 +2,13 @@
 Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@yubsoft.com.
 
 <table>
-    <tr><th>Language</th><th>Version</th><th>DVDForge</th><th>Maintainer</th></tr> 
+    <tr><th>Language</th><th>Version</th><th>DVDForge</th><th>Maintainers</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Italian (Italiano)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
-    <tr><td>&#x1F34F; German (Deutsch)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Arabic (عربي)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>فتحي الداودية</td></tr>
+    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; German (Deutsch)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; Italian (Italiano)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
+    <tr><td>&#x1F34F; Swedish (Svenska)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_SVE.ini">DVDForge_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
 </table>
 
 &#x1F34F; Up to date<br>
