@@ -1,4 +1,6 @@
-## Maintainer
+## Translations
+Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@yubsoft.com.
+
 <table>
     <tr><th>Language</th><th>Version</th><th>DVDForge</th><th>Maintainer</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
