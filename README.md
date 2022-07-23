@@ -1,21 +1,19 @@
-## Translations
-Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@yubsoft.com.
-
+## Translations for DVDForge
 <table>
-    <tr><th>Language</th><th>Version</th><th>File</th><th>Maintainer</th></tr>
-    <tr><td>&#x1F34F; English</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Arabic (عربي)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>فتحي الداودية</td></tr>
-    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; German (Deutsch)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Italian (Italiano)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
-    <tr><td>&#x1F34F; Swedish (Svenska)</td><td>1.4.2</td><td><a href="https://github.com/dvdforge/dvdforge_translations/edit/master/DVDForge_SVE.ini">DVDForge_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
+    <tr><th>Language</th><th>File</th><th>Status</th><th>Contributors</th></tr>
+    <tr><td>English           </td><td><a href="DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>Arabic (عربي)     </td><td><a href="DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>&#x1F34F; 1.4.2</td><td>فتحي الداودية</td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>German (Deutsch)  </td><td><a href="DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>Italian (Italiano)</td><td><a href="DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
+    <tr><td>Swedish (Svenska) </td><td><a href="DVDForge_SVE.ini">DVDForge_SVE.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
 </table>
 
-&#x1F34F; Up to date<br>
-&#x1F34A; Not up to date<br>
-&#x1F34E; Too old
+&#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
-## How to Translate
+If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
+
+## How to contribute
 1. Copy file DVDForge_ENU.ini to Desktop, rename it to DVDForge_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
     <pre>
@@ -31,6 +29,7 @@ Not all volunteer translators can translate the latest documents in a timely man
     ...
     </pre>
 3. Copy the new language file to %ProgramFiles%\DVDForge\language\, restart DVDForge, and then you can change the language in the software settings.
+4. Submit a pull request or send the translation file to support@yubsoft.com.
 
 ## LCID - Locale identifier
 <table>
