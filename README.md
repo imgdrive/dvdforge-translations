@@ -14,7 +14,7 @@
 If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
 
 ## How to contribute
-1. Download <a href="https://raw.githubusercontent.com/xreveal/dvdforge_translations/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a>, rename to DVDForge_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+1. Download <a href="https://raw.githubusercontent.com/dvdforge/dvdforge_translations/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a>, rename to DVDForge_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
     <pre>
     [INFO]
