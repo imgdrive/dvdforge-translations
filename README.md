@@ -6,6 +6,7 @@
     <tr><td>Chinese (简体中文)</td><td><a href="DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
+    <tr><td>Polish (Polski)   </td><td><a href="DVDForge_PLK.ini">DVDForge_PLK.ini</a></td><td>&#x1F34F; 1.4.2</td><td>Fresta</td></tr>
     <tr><td>Swedish (Svenska) </td><td><a href="DVDForge_SVE.ini">DVDForge_SVE.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
 </table>
 
