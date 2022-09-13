@@ -4,6 +4,7 @@
     <tr><td>English           </td><td><a href="DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>&#x1F34F; 1.4.2</td><td>فتحي الداودية</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>French (Français) </td><td><a href="DVDForge_FRA.ini">DVDForge_FRA.ini</a></td><td>&#x1F34F; 1.4.2</td><td>Andex</td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="DVDForge_KOR.ini">DVDForge_KOR.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/VenusGirl">@VenusGirl</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/bovirus">@bovirus</a></td></tr>
