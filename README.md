@@ -1,6 +1,6 @@
 ## Translations for DVDForge
 <table>
-    <tr><th>Language</th><th>File</th><th>Status</th><th>Contributors</th></tr>
+    <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>&#x1F34F; 1.4.2</td><td>فتحي الداودية</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
