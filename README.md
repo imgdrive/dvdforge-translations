@@ -3,6 +3,7 @@
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>&#x1F34F; 1.4.2</td><td>فتحي الداودية</td></tr>
+    <tr><td>Bulgarian         </td><td><a href="DVDForge_BUL.ini">DVDForge_BUL.ini</a></td><td>&#x1F34F; 1.4.9</td><td>jekovcar</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>French (Français) </td><td><a href="DVDForge_FRA.ini">DVDForge_FRA.ini</a></td><td>&#x1F34F; 1.4.9</td><td>Andex</td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
@@ -11,7 +12,7 @@
     <tr><td>Korean (한국어)      </td><td><a href="DVDForge_KOR.ini">DVDForge_KOR.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="DVDForge_PLK.ini">DVDForge_PLK.ini</a></td><td>&#x1F34F; 1.4.2</td><td>Fresta</td></tr>
     <tr><td>Português (Brazil)</td><td><a href="DVDForge_PTB.ini">DVDForge_PTB.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/Jukmisael">Jukmisael</a></td></tr>
-    <tr><td>Slovenian (Slovenščina)</td><td><a href="DVDForge_SLV.ini">DVDForge_SLV.ini</a></td><td>&#x1F34A; 1.4.2</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
+    <tr><td>Slovenian (Slovenščina)</td><td><a href="DVDForge_SLV.ini">DVDForge_SLV.ini</a></td><td>&#x1F34A; 1.4.9</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
     <tr><td>Swedish (Svenska) </td><td><a href="DVDForge_SVE.ini">DVDForge_SVE.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
 </table>
 
