@@ -1,12 +1,12 @@
 ## Translations for DVDForge
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>English           </td><td><a href="DVDForge_ENU.ini">DVDForge_ENU.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="DVDForge_ARA.ini">DVDForge_ARA.ini</a></td><td>&#x1F34F; 1.4.2</td><td>فتحي الداودية</td></tr>
     <tr><td>Bulgarian         </td><td><a href="DVDForge_BUL.ini">DVDForge_BUL.ini</a></td><td>&#x1F34F; 1.4.9</td><td>jekovcar</td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="DVDForge_CHS.ini">DVDForge_CHS.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>French (Français) </td><td><a href="DVDForge_FRA.ini">DVDForge_FRA.ini</a></td><td>&#x1F34F; 1.4.9</td><td>Andex</td></tr>
-    <tr><td>German (Deutsch)  </td><td><a href="DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>German (Deutsch)  </td><td><a href="DVDForge_DEU.ini">DVDForge_DEU.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="DVDForge_ITA.ini">DVDForge_ITA.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese (日本語) </td><td><a href="DVDForge_JPN.ini">DVDForge_JPN.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/reindex-ot">Re*Index.(ot_inc)</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="DVDForge_KOR.ini">DVDForge_KOR.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
@@ -19,7 +19,7 @@
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
 ## How to contribute
-1. Download <a href="https://raw.githubusercontent.com/dvdforge/dvdforge_translations/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a>, rename to DVDForge_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+1. Download <a href="https://raw.githubusercontent.com/imgdrive/dvdforge_translations/master/DVDForge_ENU.ini">DVDForge_ENU.ini</a>, rename to DVDForge_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
 <pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
