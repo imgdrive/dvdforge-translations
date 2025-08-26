@@ -12,8 +12,8 @@
     <tr><td>Korean (한국어)      </td><td><a href="DVDForge_KOR.ini">DVDForge_KOR.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="DVDForge_PLK.ini">DVDForge_PLK.ini</a></td><td>&#x1F34F; 1.4.2</td><td>Fresta</td></tr>
     <tr><td>Português (Brazil)</td><td><a href="DVDForge_PTB.ini">DVDForge_PTB.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/Jukmisael">Jukmisael</a></td></tr>
-    <tr><td>Slovenian (Slovenščina)</td><td><a href="DVDForge_SLV.ini">DVDForge_SLV.ini</a></td><td>&#x1F34A; 1.4.9</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
-    <tr><td>Swedish (Svenska) </td><td><a href="DVDForge_SVE.ini">DVDForge_SVE.ini</a></td><td>&#x1F34F; 1.4.2</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
+    <tr><td>Slovenian (Slovenščina)</td><td><a href="DVDForge_SLV.ini">DVDForge_SLV.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
+    <tr><td>Swedish (Svenska) </td><td><a href="DVDForge_SVE.ini">DVDForge_SVE.ini</a></td><td>&#x1F34F; 1.4.9</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
 </table>
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
